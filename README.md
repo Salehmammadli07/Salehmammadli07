@@ -41,16 +41,18 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🎯 Focus Areas
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Salehmammadli07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salehmammadli07&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+- ✈️ **UAV Software:** ground control systems, telemetry and autonomous missions
+- 👁️ **Computer Vision:** real-time detection and tracking with OpenCV
+- 🗺️ **Autonomous Navigation:** mission and route planning for unmanned aerial vehicles
+- 🖥️ **Desktop Applications:** building clean, responsive interfaces with PyQt
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Salehmammadli07&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+### 📚 Currently Learning
+
+- 🧠 Deep learning for object detection
+- 📡 Drone communication protocols and flight-controller integration
+- 🧩 Writing cleaner, well-tested and maintainable code
 
 ---
 
