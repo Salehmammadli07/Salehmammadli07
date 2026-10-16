@@ -35,7 +35,7 @@
 ### 🧰 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,qt,opencv,c,cpp,java,html,css,js,mysql,git,github,vscode&perline=13" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,qt,opencv,c,cpp,java,cs,html,css,js,git,github,vscode&perline=13" alt="skills" />
 </p>
 
 ---
