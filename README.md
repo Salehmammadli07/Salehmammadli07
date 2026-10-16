@@ -29,6 +29,7 @@
 |---|---|---|
 | 🖥️ **Ground Control Station** | Desktop interface for monitoring real-time telemetry and controlling the vehicle | Python · PyQt |
 | 👁️ **Computer Vision** | Image processing pipelines for detection and tracking | Python · OpenCV |
+| 🗺️ **Mission & Route Planning** | Autonomous UAV mission routes: area scanning, landing and mission-area paths | Python |
 
 ---
 
